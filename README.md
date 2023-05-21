@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-3000&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-3000" /> </p>
 
-- 🔭 I’m currently working on **Machine Hack**
+- 🔭 I’m currently working on **Data Project **
 
 - 🌱 I’m currently learning **Neural Network**
 
