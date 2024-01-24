@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-3000&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-3000" /> </p>
 
-- 🔭 I’m currently working on **Data Project **
+- 🔭 I’m currently working on **Contributing in OpenSource**
 
-- 🌱 I’m currently learning **Neural Network**
+- 🌱 I’m currently learning **MLOPS**
 
 - 💬 Ask me about **Machine Learning**
 
