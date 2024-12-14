@@ -1,18 +1,70 @@
-<h1 align="center">Hi 👋, I'm Pavan</h1> <h3 align="center">A Passionate Cloud Engineer and DevOps Enthusiast from India</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-3000&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-3000" /> </p>
-🔭 Currently Working On: Automating cloud infrastructure and optimizing CI/CD pipelines.
-🌱 Learning: Advanced Kubernetes, Terraform, and scalable cloud architectures.
-💬 Ask Me About: AWS, Docker, Kubernetes, and DevOps practices.
-⚡ Fun Fact: I love exploring anime storylines when I'm not deep in code.
-<h3 align="left">Connect with Me:</h3> <p align="left"> <a href="https://linkedin.com/in/pavan3000" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pavan S" height="30" width="40" /> </a> <a href="https://github.com/pavan-3000" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /> </a> </p>
-<h3 align="left">⚙️ Skills & Tools:</h3> <p align="left"> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> </a> <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/grafana/grafana/master/docs/logo/grafana-logo.svg" alt="Grafana" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> </p>
+<h1 align="center">Hello there! I'm Pavan 👋</h1>
+<h3 align="center">Cloud Engineer | DevOps Enthusiast | AWS Certified</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pavan-3000&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-3000" />
+</p>
+
+Welcome to my GitHub profile! I am a passionate cloud engineer with a strong background in AWS technologies, DevOps practices, and automation. I specialize in building scalable and resilient systems that help teams deliver software faster and more efficiently. On this profile, you’ll find my projects, contributions, and open-source work.
+
+<h3 align="left">🔧 Technologies and Tools:</h3>
+<ul align="left">
+  <li><strong>Cloud:</strong> AWS (EC2, S3, Lambda, CloudFront, RDS, DynamoDB)</li>
+  <li><strong>Containerization:</strong> Docker, Kubernetes, Helm</li>
+  <li><strong>CI/CD:</strong> Jenkins, GitHub Actions, AWS CodePipeline</li>
+  <li><strong>Infrastructure as Code:</strong> Terraform, AWS CloudFormation</li>
+  <li><strong>Version Control:</strong> Git, GitHub</li>
+  <li><strong>Monitoring & Security:</strong> CloudWatch, Prometheus, Grafana, Trivy, SonarQube</li>
+  <li><strong>Scripting:</strong> Python, SQL</li>
+  <li><strong>Operating Systems:</strong> Linux (Ubuntu, CentOS)</li>
+</ul>
+
+
+
+<h3 align="left">🌱 Currently Learning:</h3>
+<p align="left">
+  Advanced Terraform techniques, Cloud architecture best practices, Kubernetes (K8s) management and optimization.
+</p>
+
+
+<h3 align="left">👯 Looking to Collaborate On:</h3>
+<p align="left">
+  Open-source projects related to DevOps, cloud-native technologies, and automation<br>
+  Building scalable and highly available systems
+</p>
+
+<h3 align="left">📫 How to Reach Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pavan3000/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    LinkedIn
+  </a>
+  &nbsp;|&nbsp;
+  <a href="mailto:pavansingh3000@gmail.com" target="blank">
+    Email
+  </a>
+</p>
+
+
 <h3 align="left">🚀 Projects:</h3>
-AWS Two-Tier Application Deployment using Terraform
-Designed and deployed a scalable two-tier application using AWS services like EC2, RDS, and ELB with automated provisioning through Terraform.
+<ul>
+  <li>
+    <strong>AWS Two-Tier Application Deployment using Terraform:</strong> Designed and deployed a scalable two-tier application using AWS services like EC2, RDS, and ELB with automated provisioning through Terraform.
+  </li>
+  <li>
+    <strong>Static Website Hosting with CI/CD:</strong> Automated deployment pipelines for a static website using AWS services (S3, CloudFront, CodePipeline, CodeBuild) to ensure seamless updates.
+  </li>
+  <li>
+    <strong>CI/CD Pipeline for Microservices:</strong> Built an end-to-end CI/CD pipeline leveraging Docker, Kubernetes, Helm, and GitHub Actions, incorporating GitOps principles with Argo CD for deployment automation.
+  </li>
+</ul>
 
-Static Website Hosting with CI/CD
-Automated deployment pipelines for a static website using AWS services (S3, CloudFront, CodePipeline, CodeBuild) to ensure seamless updates.
-
-CI/CD Pipeline for Microservices
-Built an end-to-end CI/CD pipeline leveraging Docker, Kubernetes, Helm, and GitHub Actions, incorporating GitOps principles with Argo CD for deployment automation.
-
-<h3 align="left">📊 Stats:</h3> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavan-3000&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavan-3000&show_icons=true&locale=en" alt="GitHub Stats" /> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-3000&" alt="GitHub Streak" /> </p>
+<h3 align="left">📊 Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavan-3000&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavan-3000&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-3000&" alt="GitHub Streak" />
+</p>
